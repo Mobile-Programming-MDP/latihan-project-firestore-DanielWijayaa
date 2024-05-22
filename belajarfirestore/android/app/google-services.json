@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104068320434",
+    "project_id": "bljrfirestore",
+    "storage_bucket": "bljrfirestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104068320434:android:f40660e51a6243afae4dab",
+        "android_client_info": {
+          "package_name": "com.example.belajarfirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4TtkpLOMu2f5y8DfUPjPBsXPGBEE2Z-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
